@@ -1,0 +1,60 @@
+# Data files
+npyfiles/
+*.npy
+*.h5
+*.hdf5
+
+# Output directories
+output*/
+*_output/
+Transmission/
+StitchedData*/
+
+# Sample and instrument data (keep templates, ignore generated)
+sample_info/*.txt
+!sample_info/.gitkeep
+instrument_info/*.txt
+!instrument_info/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log

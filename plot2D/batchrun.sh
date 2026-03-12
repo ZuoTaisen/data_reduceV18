@@ -1,0 +1,19 @@
+python plot_data_D3.py	RUN0023286  2D	&
+python plot_data_D3.py  RUN0023287  2D  &
+python plot_data_D3.py  RUN0023288  2D  &
+python plot_data_D3.py  RUN0023289  2D  &
+python plot_data_D3.py  RUN0023290  2D  &
+python plot_data_D3.py  RUN0023291  2D  &
+python plot_data_D3.py  RUN0023292  2D  &
+python plot_data_D3.py  RUN0023293  2D  &
+python plot_data_D3.py  RUN0023294  2D  &
+python plot_data_D3.py  RUN0023295  2D  &
+python plot_data_D3.py  RUN0023296  2D  &
+python plot_data_D3.py  RUN0023297  2D  &
+python plot_data_D3.py  RUN0023298  2D  &
+python plot_data_D3.py  RUN0023299  2D  &
+python plot_data_D3.py  RUN0023300  2D  &
+python plot_data_D3.py  RUN0023301  2D  &
+python plot_data_D3.py  RUN0023302  2D  &
+python plot_data_D3.py  RUN0023303  2D  &
+
