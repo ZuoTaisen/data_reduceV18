@@ -8,7 +8,7 @@ This project processes raw neutron scattering data from SANS instruments through
 
 ### What is SANS?
 
-Small-Angle Neutron Scattering (SANS) is a powerful technique for studying the structure of materials at length scales of 1-100 nm. Neutrons scatter off atomic nuclei, providing complementary information to X-ray scattering. This project processes the raw scattering data from SANS instruments into meaningful scientific results.
+Small-Angle Neutron Scattering (SANS) is a powerful technique for studying the structure of materials at length scales of 1-300 nm. Neutrons scatter off atomic nuclei, providing complementary information to X-ray scattering. This project processes the raw scattering data from SANS instruments into meaningful scientific results.
 
 ## Key Features
 
